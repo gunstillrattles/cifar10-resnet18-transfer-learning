@@ -1,0 +1,16 @@
+{
+  "test_accuracy": 79.41,
+  "n_test": 10000,
+  "per_class_accuracy": {
+    "plane": 83.2,
+    "car": 89.2,
+    "bird": 72.4,
+    "cat": 58.7,
+    "deer": 75.0,
+    "dog": 85.8,
+    "frog": 80.1,
+    "horse": 82.8,
+    "ship": 87.4,
+    "truck": 79.5
+  }
+}
